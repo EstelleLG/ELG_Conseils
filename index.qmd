@@ -1,12 +1,18 @@
 ---
 title: "ELG Conseils"
+image: logo_site.png
+toc: false
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: Sitemartin
+      href: https://www.martin-conseil.fr
+      target: _blank
+    - text: Email
+      href: mailto:martin.legenissel@outlook.fr
+    
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
- 
+De la donnée à l'action territoriale
